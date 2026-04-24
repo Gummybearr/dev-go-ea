@@ -1,0 +1,138 @@
+# EA Prep Notes
+
+마지막 업데이트: 2026-04-24 (Asia/Seoul)
+
+이 디렉토리는 EA(Enrolled Agent) 시험 준비용 개인 학습 노트입니다.
+
+## 파일 목록
+
+- `10-week-plan.md`: 하루 5시간 기준 10주 학습 플랜
+- `part-1-study-guide.md`: Part 1 공부 방식, 4주 로드맵, Day 1 시작 세트
+- `part-1-last-minute-cheatsheet.md`: Part 1 시험 직전 1페이지 압축노트
+- `part-1-incorrect-answer-template.md`: Part 1 오답노트 템플릿
+- `part-1-week-1-day-1.md`: Part 1 Week 1 Day 1 전용 학습 노트와 미니퀴즈
+- `part-1-week-1-day-2-quickstart.md`: Part 1 Week 1 Day 2 filing status 퀵스타트 노트와 미니퀴즈
+- `part-1-week-1-day-3-quickstart.md`: Part 1 Week 1 Day 3 dependents 퀵스타트 노트와 미니퀴즈
+- `part-1-week-1-day-4-quickstart.md`: Part 1 Week 1 Day 4 filing requirement / standard deduction / due dates 퀵스타트 노트와 미니퀴즈
+- `part-1-week-1-day-5-quickstart.md`: Part 1 Week 1 Day 5 gross income basics 퀵스타트 노트와 미니퀴즈
+- `part-1-week-1-day-6-quickstart.md`: Part 1 Week 1 Day 6 information returns / education basics 퀵스타트 노트와 미니퀴즈
+- `part-1-week-1-day-7-mixed-review.md`: Part 1 Week 1 Day 7 mixed review 전용 노트
+- `part-1-week-1-day-2-to-day-7.md`: Part 1 Week 1의 Day 2~Day 7 상세 학습 체크리스트
+- `part-1-week-2-day-1-quickstart.md`: Part 1 Week 2 Day 1 adjustments / AGI flow 퀵스타트 노트와 미니퀴즈
+- `part-1-week-2-day-2-quickstart.md`: Part 1 Week 2 Day 2 standard vs itemized deduction 퀵스타트 노트와 미니퀴즈
+- `part-1-week-2-day-3-quickstart.md`: Part 1 Week 2 Day 3 family credits 퀵스타트 노트와 미니퀴즈
+- `part-1-week-2-day-4-quickstart.md`: Part 1 Week 2 Day 4 education credits / PTC 퀵스타트 노트와 미니퀴즈
+- `part-1-week-2-day-5-quickstart.md`: Part 1 Week 2 Day 5 retirement basics 퀵스타트 노트와 미니퀴즈
+- `part-1-week-2-day-6-quickstart.md`: Part 1 Week 2 Day 6 forms integration 노트와 체크리스트
+- `part-1-week-2-day-7-mixed-review.md`: Part 1 Week 2 Day 7 mixed review 전용 노트
+- `part-1-week-2-day-1-to-day-7.md`: Part 1 Week 2의 Day 1~Day 7 상세 학습 체크리스트
+- `part-1-week-3-day-1-quickstart.md`: Part 1 Week 3 Day 1 basis fundamentals 퀵스타트 노트와 미니퀴즈
+- `part-1-week-3-day-2-quickstart.md`: Part 1 Week 3 Day 2 capital gains and losses 퀵스타트 노트와 미니퀴즈
+- `part-1-week-3-day-3-quickstart.md`: Part 1 Week 3 Day 3 property sale 퀵스타트 노트와 미니퀴즈
+- `part-1-week-3-day-4-quickstart.md`: Part 1 Week 3 Day 4 special assets and traps 퀵스타트 노트와 미니퀴즈
+- `part-1-week-3-day-5-quickstart.md`: Part 1 Week 3 Day 5 pass-through income / reporting issues 퀵스타트 노트와 미니퀴즈
+- `part-1-week-3-day-6-quickstart.md`: Part 1 Week 3 Day 6 forms integration 노트와 체크리스트
+- `part-1-week-3-day-7-mixed-review.md`: Part 1 Week 3 Day 7 mixed review 전용 노트
+- `part-1-week-3-day-1-to-day-7.md`: Part 1 Week 3의 Day 1~Day 7 상세 학습 체크리스트
+- `part-1-week-4-day-1-quickstart.md`: Part 1 Week 4 Day 1 self-employment tax / Schedule 2 퀵스타트 노트와 미니퀴즈
+- `part-1-week-4-day-2-quickstart.md`: Part 1 Week 4 Day 2 other taxes 퀵스타트 노트와 미니퀴즈
+- `part-1-week-4-day-3-quickstart.md`: Part 1 Week 4 Day 3 advising the individual taxpayer 퀵스타트 노트와 미니퀴즈
+- `part-1-week-4-day-4-quickstart.md`: Part 1 Week 4 Day 4 estate tax and gift tax basics 퀵스타트 노트와 미니퀴즈
+- `part-1-week-4-day-5-quickstart.md`: Part 1 Week 4 Day 5 FBAR / Form 8938 퀵스타트 노트와 미니퀴즈
+- `part-1-week-4-day-6-quickstart.md`: Part 1 Week 4 Day 6 forms integration and weak-area repair 노트와 체크리스트
+- `part-1-week-4-day-7-mixed-review.md`: Part 1 Week 4 Day 7 final mixed review 전용 노트
+- `part-1-week-4-day-1-to-day-7.md`: Part 1 Week 4의 Day 1~Day 7 상세 학습 체크리스트
+- `week-1-day-2-to-day-7.md`: Part 1 legacy 파일명, Week 1 Day 2~Day 7 상세 학습 체크리스트
+- `week-2-day-1-to-day-7.md`: Part 1 legacy 파일명, Week 2 Day 1~Day 7 상세 학습 체크리스트
+- `week-3-day-1-to-day-7.md`: Part 1 legacy 파일명, Week 3 Day 1~Day 7 상세 학습 체크리스트
+- `week-4-day-1-to-day-7.md`: Part 1 legacy 파일명, Week 4 Day 1~Day 7 상세 학습 체크리스트
+- `part-2-study-guide.md`: Part 2 공부 방식, 4주 로드맵, Day 1 시작 세트
+- `part-2-last-minute-cheatsheet.md`: Part 2 시험 직전 1페이지 압축노트
+- `part-2-incorrect-answer-template.md`: Part 2 오답노트 템플릿
+- `part-2-week-1-day-1.md`: Part 2 Week 1 Day 1 전용 학습 노트와 미니퀴즈
+- `part-2-week-1-day-2-quickstart.md`: Part 2 Week 1 Day 2 파트너십 퀵스타트 노트와 미니퀴즈
+- `part-2-week-1-day-3-quickstart.md`: Part 2 Week 1 Day 3 C corporation 퀵스타트 노트와 미니퀴즈
+- `part-2-week-1-day-4-quickstart.md`: Part 2 Week 1 Day 4 corporation formation / section 351 퀵스타트 노트와 미니퀴즈
+- `part-2-week-1-day-5-quickstart.md`: Part 2 Week 1 Day 5 S corporation 퀵스타트 노트와 미니퀴즈
+- `part-2-week-1-day-6-quickstart.md`: Part 2 Week 1 Day 6 entity/forms integration 노트와 체크리스트
+- `part-2-week-1-day-7-mixed-review.md`: Part 2 Week 1 Day 7 mixed review 전용 노트
+- `part-2-week-1-day-2-to-day-7.md`: Part 2 Week 1의 Day 2~Day 7 상세 학습 체크리스트
+- `part-2-week-2-day-1-quickstart.md`: Part 2 Week 2 Day 1 business income / COGS 퀵스타트 노트와 미니퀴즈
+- `part-2-week-2-day-2-quickstart.md`: Part 2 Week 2 Day 2 business expenses 퀵스타트 노트와 미니퀴즈
+- `part-2-week-2-day-3-quickstart.md`: Part 2 Week 2 Day 3 depreciation cluster 퀵스타트 노트와 미니퀴즈
+- `part-2-week-2-day-4-quickstart.md`: Part 2 Week 2 Day 4 QBI / credits / NOL 퀵스타트 노트와 미니퀴즈
+- `part-2-week-2-day-5-quickstart.md`: Part 2 Week 2 Day 5 employment taxes / compliance 퀵스타트 노트와 미니퀴즈
+- `part-2-week-2-day-6-quickstart.md`: Part 2 Week 2 Day 6 forms integration 노트와 체크리스트
+- `part-2-week-2-day-7-mixed-review.md`: Part 2 Week 2 Day 7 mixed review 전용 노트
+- `part-2-week-2-day-1-to-day-7.md`: Part 2 Week 2의 Day 1~Day 7 상세 학습 체크리스트
+- `part-2-week-3-day-1-quickstart.md`: Part 2 Week 3 Day 1 business assets / dispositions 퀵스타트 노트와 미니퀴즈
+- `part-2-week-3-day-2-quickstart.md`: Part 2 Week 3 Day 2 capitalization vs repair 퀵스타트 노트와 미니퀴즈
+- `part-2-week-3-day-3-quickstart.md`: Part 2 Week 3 Day 3 accounting methods / Form 3115 퀵스타트 노트와 미니퀴즈
+- `part-2-week-3-day-4-quickstart.md`: Part 2 Week 3 Day 4 financial records / M-1-M-2-M-3 퀵스타트 노트와 미니퀴즈
+- `part-2-week-3-day-5-quickstart.md`: Part 2 Week 3 Day 5 advising the business taxpayer 퀵스타트 노트와 미니퀴즈
+- `part-2-week-3-day-6-quickstart.md`: Part 2 Week 3 Day 6 forms integration 노트와 체크리스트
+- `part-2-week-3-day-7-mixed-review.md`: Part 2 Week 3 Day 7 mixed review 전용 노트
+- `part-2-week-3-day-1-to-day-7.md`: Part 2 Week 3의 Day 1~Day 7 상세 학습 체크리스트
+- `part-2-week-4-day-1-quickstart.md`: Part 2 Week 4 Day 1 trust and estate income tax 퀵스타트 노트와 미니퀴즈
+- `part-2-week-4-day-2-quickstart.md`: Part 2 Week 4 Day 2 exempt organizations 퀵스타트 노트와 미니퀴즈
+- `part-2-week-4-day-3-quickstart.md`: Part 2 Week 4 Day 3 retirement plans 퀵스타트 노트와 미니퀴즈
+- `part-2-week-4-day-4-quickstart.md`: Part 2 Week 4 Day 4 farmers and rental property 퀵스타트 노트와 미니퀴즈
+- `part-2-week-4-day-5-quickstart.md`: Part 2 Week 4 Day 5 Part 2 master forms day 노트와 체크리스트
+- `part-2-week-4-day-6-quickstart.md`: Part 2 Week 4 Day 6 weak-area repair 노트와 체크리스트
+- `part-2-week-4-day-7-mixed-review.md`: Part 2 Week 4 Day 7 final mixed review 전용 노트
+- `part-2-week-4-day-1-to-day-7.md`: Part 2 Week 4의 Day 1~Day 7 상세 학습 체크리스트
+- `part-3-study-guide.md`: Part 3 공부 방식, 4주 로드맵, Day 1 시작 세트
+- `part-3-last-minute-cheatsheet.md`: Part 3 시험 직전 1페이지 압축노트
+- `part-3-incorrect-answer-template.md`: Part 3 오답노트 템플릿
+- `part-3-week-1-day-1.md`: Part 3 Week 1 Day 1 전용 학습 노트와 미니퀴즈
+- `part-3-week-1-day-2-quickstart.md`: Part 3 Week 1 Day 2 requirements and practice authority 퀵스타트 노트와 미니퀴즈
+- `part-3-week-1-day-3-quickstart.md`: Part 3 Week 1 Day 3 sanctions and disreputable conduct 퀵스타트 노트와 미니퀴즈
+- `part-3-week-1-day-4-quickstart.md`: Part 3 Week 1 Day 4 due diligence / conflicts / fees / advertising 퀵스타트 노트와 미니퀴즈
+- `part-3-week-1-day-5-quickstart.md`: Part 3 Week 1 Day 5 preparer obligations / Form 8867 퀵스타트 노트와 미니퀴즈
+- `part-3-week-1-day-6-quickstart.md`: Part 3 Week 1 Day 6 rules integration 노트와 체크리스트
+- `part-3-week-1-day-7-mixed-review.md`: Part 3 Week 1 Day 7 mixed review 전용 노트
+- `part-3-week-1-day-2-to-day-7.md`: Part 3 Week 1의 Day 2~Day 7 상세 학습 체크리스트
+- `part-3-week-2-day-1-quickstart.md`: Part 3 Week 2 Day 1 Form 2848 / 8821 / CAF 퀵스타트 노트와 미니퀴즈
+- `part-3-week-2-day-2-quickstart.md`: Part 3 Week 2 Day 2 building the taxpayer case 퀵스타트 노트와 미니퀴즈
+- `part-3-week-2-day-3-quickstart.md`: Part 3 Week 2 Day 3 taxpayer financial situation 퀵스타트 노트와 미니퀴즈
+- `part-3-week-2-day-4-quickstart.md`: Part 3 Week 2 Day 4 supporting docs / legal authority 퀵스타트 노트와 미니퀴즈
+- `part-3-week-2-day-5-quickstart.md`: Part 3 Week 2 Day 5 statutes / FOIA / TAS / identity theft 퀵스타트 노트와 미니퀴즈
+- `part-3-week-2-day-6-quickstart.md`: Part 3 Week 2 Day 6 forms and references integration 노트와 체크리스트
+- `part-3-week-2-day-7-mixed-review.md`: Part 3 Week 2 Day 7 mixed review 전용 노트
+- `part-3-week-2-day-1-to-day-7.md`: Part 3 Week 2의 Day 1~Day 7 상세 학습 체크리스트
+- `part-3-week-3-day-1-quickstart.md`: Part 3 Week 3 Day 1 collection process 퀵스타트 노트와 미니퀴즈
+- `part-3-week-3-day-2-quickstart.md`: Part 3 Week 3 Day 2 penalties and interest abatement 퀵스타트 노트와 미니퀴즈
+- `part-3-week-3-day-3-quickstart.md`: Part 3 Week 3 Day 3 audits and examinations 퀵스타트 노트와 미니퀴즈
+- `part-3-week-3-day-4-quickstart.md`: Part 3 Week 3 Day 4 appeals 퀵스타트 노트와 미니퀴즈
+- `part-3-week-3-day-5-quickstart.md`: Part 3 Week 3 Day 5 refund claims / audit reconsideration / decedent representation 퀵스타트 노트와 미니퀴즈
+- `part-3-week-3-day-6-quickstart.md`: Part 3 Week 3 Day 6 forms integration 노트와 체크리스트
+- `part-3-week-3-day-7-mixed-review.md`: Part 3 Week 3 Day 7 mixed review 전용 노트
+- `part-3-week-3-day-1-to-day-7.md`: Part 3 Week 3의 Day 1~Day 7 상세 학습 체크리스트
+- `part-3-week-4-day-1-quickstart.md`: Part 3 Week 4 Day 1 accuracy 퀵스타트 노트와 미니퀴즈
+- `part-3-week-4-day-2-quickstart.md`: Part 3 Week 4 Day 2 record maintenance and data security 퀵스타트 노트와 미니퀴즈
+- `part-3-week-4-day-3-quickstart.md`: Part 3 Week 4 Day 3 electronic filing 퀵스타트 노트와 미니퀴즈
+- `part-3-week-4-day-4-quickstart.md`: Part 3 Week 4 Day 4 filing process integration 노트와 체크리스트
+- `part-3-week-4-day-5-quickstart.md`: Part 3 Week 4 Day 5 master forms day 노트와 체크리스트
+- `part-3-week-4-day-6-quickstart.md`: Part 3 Week 4 Day 6 weak-area repair 노트와 체크리스트
+- `part-3-week-4-day-7-mixed-review.md`: Part 3 Week 4 Day 7 final mixed review 전용 노트
+- `part-3-week-4-day-1-to-day-7.md`: Part 3 Week 4의 Day 1~Day 7 상세 학습 체크리스트
+
+## 시험 관련 메모
+
+- IRS 공지 기준 `2026 EA-SEE` 예약 오픈 예정일: `2026-05-01`
+- IRS 공지 기준 시험 시작 예정일: `2026-07-01`
+- 최신 `PSI` 상세 bulletin이 아직 없을 수 있으므로, 아래 노트는 최신 IRS 공지와 직전 공식 content outline을 기준으로 정리함
+
+## 주요 공식 링크
+
+- IRS EA FAQ: https://www.irs.gov/tax-professionals/enrolled-agents/enrolled-agents-frequently-asked-questions
+- IRS Become an Enrolled Agent: https://www.irs.gov/tax-professionals/enrolled-agents/become-an-enrolled-agent
+- IRS Enrolled Agent News: https://www.irs.gov/tax-professionals/enrolled-agent-news
+- IRS SEE Sample Questions: https://www.irs.gov/tax-professionals/enrolled-agents/sample-special-enrollment-examination-questions-and-official-answers
+- IRS SEE Part 1 Sample Questions: https://www.irs.gov/tax-professionals/enrolled-agents/see-sample-test-questions-part-1
+- IRS SEE Part 2 Sample Questions: https://www.irs.gov/tax-professionals/enrolled-agents/see-sample-test-questions-part-2
+- IRS SEE Part 3 Sample Questions: https://www.irs.gov/tax-professionals/enrolled-agents/see-sample-test-questions-part-3
+- Prometric Candidate Information Bulletin: https://www.prometric.com/files/IRS/IRS-SEE-Candidate-Information-Bulletin.pdf
+- Archived SEE Part 2 Outline PDF: https://www.prometric.com/files/2021-01/SEE%202%20Clean.pdf
+- Circular 230 PDF: https://www.irs.gov/pub/irs-pdf/pcir230.pdf
+- IRS RPO Static Directory: https://www.eitc.irs.gov/downloads/rpo-taxpros
