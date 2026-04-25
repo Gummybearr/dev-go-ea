@@ -1,0 +1,79 @@
+EA Part 1, Week 1 Day 1, Masterclass four. Qualifying Relative and traps.
+
+이번 module의 목표는 Qualifying Relative, 즉 QR을 Qualifying Child와 분리해서 이해하는 것입니다.
+
+한 줄 결론은 이것입니다. QR equals not a QC, plus relationship or all-year household, plus gross income below threshold, plus taxpayer provides more than half support.
+
+QR은 dependent의 두 번째 갈래입니다. 순서는 항상 같습니다. 먼저 Qualifying Child, 즉 QC를 봅니다. QC가 아니면 Qualifying Relative, 즉 QR을 봅니다.
+
+시험에서 adult brother, parent, unrelated friend, older child 같은 사람이 나오면 QR 가능성을 생각합니다. 하지만 그 사람이 다른 taxpayer의 QC이면 일반적으로 QR로 claim할 수 없습니다.
+
+QR test는 네 개로 잡습니다.
+
+첫째, not a qualifying child.
+
+둘째, relationship or member of household.
+
+셋째, gross income.
+
+넷째, support.
+
+첫 번째 test는 not a qualifying child입니다. QR은 QC가 아닌 사람을 보는 category입니다. 이 말은 taxpayer의 QC가 아니라는 뜻만이 아니라, 일반적으로 다른 taxpayer의 QC인 사람도 QR로 claim할 수 없다는 뜻입니다. 문제 78이 이 함정입니다.
+
+두 번째 test는 relationship or all-year household입니다. Listed relative이면 같이 살지 않아도 가능할 수 있습니다. Parent, father, mother, brother 같은 관계가 여기에 들어옵니다. 반대로 nonrelative는 일반적으로 all year household member여야 합니다.
+
+그래서 taxpayer의 father가 따로 살아도, listed relative이고 다른 QR 요건을 충족하면 가능성이 있습니다. Unrelated friend가 all year 같이 살고 다른 요건을 충족하면 QR 가능성이 있습니다. 하지만 unrelated person이 8개월만 같이 살았다면 all-year household requirement에서 문제가 됩니다.
+
+세 번째 test는 gross income threshold입니다. 2025 Publication 501 기준으로 qualifying relative의 gross income은 5,200 dollars 미만이어야 합니다.
+
+여기서 중요한 단어는 less than입니다. Less than 5,200 dollars는 exactly 5,200 dollars가 아닙니다. Exactly 5,200이면 less than이 아니므로 fail입니다. 문제 67과 68이 이 차이를 묻습니다.
+
+네 번째 test는 support입니다. QR support test는 taxpayer가 그 사람 total support의 more than half를 제공했는지 봅니다. More than half는 50 percent 초과입니다. Exactly 50 percent는 more than half가 아닙니다. 문제 69와 70이 이 포인트입니다.
+
+여기서 Day 1 최대 함정을 다시 봅니다.
+
+QC support는 child가 own support의 half 초과를 제공했는지 묻습니다.
+
+QR support는 taxpayer가 person's total support의 half 초과를 제공했는지 묻습니다.
+
+즉 QC는 child의 own support입니다. QR은 taxpayer-provided support입니다. 문제 75가 이 차이를 직접 묻습니다.
+
+QR에는 QC 같은 age test가 없습니다. QR은 under 19, student under 24 같은 test가 아닙니다. 그래서 adult brother, parent, older relative도 QR 가능성이 있습니다. 물론 not QC, relationship or household, gross income, support test를 통과해야 합니다.
+
+HOH와 QR도 섞으면 안 됩니다. QR dependent가 된다고 해서 자동으로 Head of Household qualifying person이 되는 것은 아닙니다. 특히 all-year household member인 unrelated friend는 QR dependent가 될 수는 있어도 HOH qualifying person은 보통 아닙니다.
+
+문제 64번부터 78번을 연결하겠습니다.
+
+64번은 QR 약어입니다. Qualifying Relative.
+
+67번은 2025 QR threshold입니다. Less than 5,200 dollars.
+
+68번은 exactly 5,200 dollars입니다. Less than이 아니므로 fail.
+
+69번은 QR support입니다. Taxpayer provides more than half.
+
+70번은 exactly 50 percent support입니다. More than half가 아니므로 fail.
+
+71번은 mother입니다. 가능하면 QR.
+
+72번은 unrelated friend all year입니다. 다른 tests가 맞으면 QR 가능성이 있습니다.
+
+73번은 father did not live with taxpayer입니다. Listed relative이면 그래도 가능성이 있습니다.
+
+74번은 nonrelative only 8 months입니다. All-year household requirement에서 fail입니다.
+
+75번은 QC support와 QR support의 차이입니다. Own support versus taxpayer support.
+
+QR 문제는 이 템플릿으로 풉니다.
+
+먼저 QC가 아닌지 확인한다.
+
+Listed relative인가, 아니면 all-year household member인가.
+
+Gross income이 threshold 미만인가.
+
+Taxpayer가 support의 more than half를 제공했는가.
+
+Exactly half는 안 된다. More than half다.
+
+마지막 정리입니다. QR은 not QC, relationship or all-year household, gross income below threshold, taxpayer-provided support입니다. 2025 threshold는 less than 5,200 dollars입니다. Exactly 5,200 is not less than 5,200. QC support와 QR support를 절대 섞지 마세요.

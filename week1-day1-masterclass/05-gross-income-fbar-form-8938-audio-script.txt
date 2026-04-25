@@ -1,0 +1,111 @@
+EA Part 1, Week 1 Day 1, Masterclass five. Gross income, FBAR, and Form 8938.
+
+이번 module의 목표는 들어온 value를 taxable first로 보고, FBAR와 Form 8938을 filing location 기준으로 구분하는 것입니다.
+
+한 줄 결론은 이것입니다. Gross income은 taxable first, exclusion second. FBAR는 FinCEN BSA E-Filing. Form 8938은 required이면 income tax return에 attach.
+
+Publication 525의 기본 감각은 간단합니다. Income is taxable unless specifically excluded by law.
+
+시험식으로 바꾸면 이렇습니다. Value came in? Taxable candidate first. Then look for exclusion.
+
+돈, property, services가 들어오면 일단 gross income 후보로 봅니다. 그 다음 gift, inheritance, child support, life insurance death proceeds 같은 specific exclusion이 있는지 봅니다.
+
+Income은 cash만이 아닙니다. Money도 income이 될 수 있고, property도 income이 될 수 있고, services도 income이 될 수 있습니다. Barter도 income이 될 수 있습니다.
+
+FMV는 Fair Market Value입니다. Services 대가로 property나 services를 받으면 FMV가 중요해집니다.
+
+시험에서 가장 흔한 함정은 gift와 compensation을 섞는 것입니다. 누군가 property를 줬다고 해서 항상 gift가 아닙니다. 질문은 이것입니다. Why did the taxpayer receive it?
+
+서비스를 제공했기 때문에 받았으면 compensation입니다. Gift라고 불러도 실질이 services 대가이면 taxable compensation 후보로 봅니다.
+
+예를 들어 lawyer가 client에게 legal services를 제공했고, client가 painting worth 2,000 dollars를 줬다면, 이것은 true gift가 아닙니다. Services 대가입니다. 일반적으로 FMV 기준 taxable compensation입니다.
+
+Day 1에서 taxable로 보는 대표 항목을 잡겠습니다.
+
+Wages는 taxable compensation.
+
+Employer cash bonus도 taxable compensation.
+
+Employer cash gift card도 taxable compensation 후보.
+
+Property for services는 FMV taxable compensation.
+
+Barter services는 FMV taxable income.
+
+Illegal income도 taxable.
+
+Bribe도 taxable.
+
+Gambling winnings도 taxable.
+
+Unemployment compensation도 taxable.
+
+여기서 중요한 것은 moral judgment가 아닙니다. illegal income도 income이면 taxable입니다.
+
+Excluded로 보는 대표 항목도 잡습니다.
+
+True gift from parent는 generally excluded.
+
+Inheritance는 generally excluded.
+
+Child support received는 generally not taxable to recipient.
+
+Life insurance proceeds received by reason of death는 generally excluded.
+
+하지만 exclusion은 specific rule이 있을 때만 적용합니다. Gift처럼 보여도 services 대가이면 compensation입니다.
+
+문제 79번부터 95번을 연결합니다.
+
+79번은 basic rule입니다. Taxable unless specifically exempted.
+
+80번은 painting for legal services입니다. Taxable compensation at FMV.
+
+81번은 FMV입니다. Fair Market Value.
+
+82번은 true gift from parent입니다. Excluded.
+
+83번은 illegal income입니다. Included.
+
+84번은 gambling winnings입니다. Taxable.
+
+85번은 life insurance death proceeds입니다. Generally excluded.
+
+86번은 child support received입니다. Not taxable to recipient.
+
+87번은 inheritance입니다. Generally excluded.
+
+88번은 employer cash bonus입니다. Taxable compensation.
+
+89번은 barter services입니다. Barter income.
+
+90번은 employer cash gift card입니다. Taxable compensation.
+
+91번은 bribe입니다. Included in income.
+
+92번은 unemployment compensation입니다. Taxable income.
+
+이제 FBAR입니다.
+
+FBAR는 Report of Foreign Bank and Financial Accounts입니다. FBAR는 income tax return에 붙이는 schedule이 아닙니다. Required이면 FinCEN의 BSA E-Filing System을 통해 electronic filing합니다.
+
+FinCEN은 Financial Crimes Enforcement Network입니다. BSA는 Bank Secrecy Act입니다.
+
+Day 1 기준으로 기억할 threshold는 aggregate value of foreign financial accounts exceeds 10,000 dollars at any time during the calendar year입니다. 즉 calendar year 중 어느 시점이든 foreign financial accounts aggregate value가 10,000 dollars를 초과하면 FBAR issue가 생깁니다.
+
+Form 8938은 Statement of Specified Foreign Financial Assets입니다. Required이면 annual income tax return에 attach합니다.
+
+중요한 문장입니다. Form 8938 does not replace FBAR.
+
+둘은 filing location도 다르고, requirement도 다를 수 있습니다. 둘 다 해당하면 둘 다 검토해야 합니다.
+
+문제 96번은 FBAR 약어입니다. Report of Foreign Bank and Financial Accounts.
+
+97번은 FBAR filing location입니다. FinCEN BSA E-Filing.
+
+98번은 Form 8938입니다. Attached to annual income tax return when required.
+
+99번은 Form 8938 does not replace FBAR.
+
+100번은 FBAR threshold입니다. Over 10,000 dollars at any time during the calendar year.
+
+마지막 정리입니다. Gross income은 taxable first, exclusion second입니다. Money, property, services가 들어오면 taxable candidate로 봅니다. Services 대가로 받은 property는 FMV 기준 compensation입니다. FBAR는 FinCEN BSA E-Filing이고, Form 8938은 required이면 tax return에 attach합니다. Form 8938은 FBAR를 replace하지 않습니다.

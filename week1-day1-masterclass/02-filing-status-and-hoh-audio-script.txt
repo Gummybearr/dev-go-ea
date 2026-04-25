@@ -1,0 +1,77 @@
+EA Part 1, Week 1 Day 1, Masterclass two. Filing status and Head of Household.
+
+이번 module의 목표는 filing status를 이름 암기가 아니라 판단 순서로 익히는 것입니다.
+
+한 줄 결론은 이것입니다. Year-end marital status first. HOH only after status, home cost, and qualifying person.
+
+Filing status는 return 위에 붙는 단순한 label이 아닙니다. filing requirement, standard deduction, tax rate structure, credit eligibility, final tax amount에 영향을 줍니다. 그래서 filing status를 잘못 고르면 뒤의 계산도 같이 흔들립니다.
+
+기본 status는 다섯 개입니다.
+
+Single.
+
+MFJ, Married Filing Jointly.
+
+MFS, Married Filing Separately.
+
+HOH, Head of Household.
+
+QSS, Qualifying Surviving Spouse.
+
+약어를 보면 바로 풀어 읽어야 합니다. MFJ는 Married Filing Jointly. MFS는 Married Filing Separately. HOH는 Head of Household. QSS는 Qualifying Surviving Spouse.
+
+첫 번째 판단은 December 31 rule입니다. Marital status is generally determined as of December 31.
+
+Taxpayer가 2025년 11월 30일에 결혼했고, 2025년 12월 31일에도 married라면, 2025년 filing status는 married에서 시작합니다. 1년 대부분을 unmarried로 살았다는 사실에 끌려가면 안 됩니다.
+
+반대로 2025년 12월 20일에 final divorce decree가 있었고, 12월 31일까지 remarried하지 않았다면, year-end에는 unmarried입니다.
+
+Married taxpayer라면 기본 후보는 보통 MFJ 또는 MFS입니다. MFJ는 spouses가 combined income and deductions를 한 return에 신고하는 status입니다. MFS는 married taxpayers가 separate returns를 filing하는 status입니다. MFS는 Single과 같은 말이 아닙니다. Married status 안에서 separate로 filing하는 것입니다.
+
+Spouse died during the year가 나오면 바로 Single로 가면 안 됩니다. Taxpayer가 그 해에 remarry하지 않고, deceased spouse와 joint return을 filing할 수 있는 요건을 충족하면 그 해에는 MFJ가 가능할 수 있습니다. 이후 연도에는 요건이 맞으면 QSS, Qualifying Surviving Spouse가 나올 수 있습니다. Day 1에서는 trigger를 잡으면 됩니다. spouse died는 MFJ 가능성, QSS 가능성입니다.
+
+이제 Head of Household입니다. HOH는 시험에서 가장 많이 헷갈리는 filing status입니다.
+
+HOH는 세 가지 문을 통과해야 합니다.
+
+첫째, taxpayer가 unmarried 또는 considered unmarried인가.
+
+둘째, taxpayer가 home 유지비의 half 초과를 냈는가.
+
+셋째, qualifying person이 있는가.
+
+이 세 개를 함께 봅니다. 하나만 맞는다고 HOH가 되는 것이 아닙니다.
+
+HOH 첫 번째 문은 status입니다. 기본적으로 unmarried taxpayer에게 열려 있습니다. 하지만 married taxpayer도 certain facts가 있으면 considered unmarried가 될 수 있습니다. 문제에 spouse lived apart during the last six months, taxpayer paid more than half the cost of keeping up the home, child lived with taxpayer, filed separate return 같은 말이 모이면 considered unmarried 가능성을 의심합니다.
+
+주의할 점은, married taxpayer가 spouse와 all year 같이 살았다면 특별한 사실 없이 HOH를 고르는 것은 보통 좋은 답이 아니라는 것입니다.
+
+HOH 두 번째 문은 cost of keeping up a home입니다. 여기서 보는 것은 support가 아니라 home cost입니다. rent, mortgage interest, real estate tax, utilities, repairs, property insurance, food eaten in the home 같은 항목입니다. Paid more than half the cost of keeping up a home이라는 문장이 보이면 HOH 문 하나가 열린 것입니다.
+
+HOH 세 번째 문은 qualifying person입니다. 가장 쉬운 케이스는 qualifying child가 taxpayer와 같이 사는 경우입니다. 하지만 모든 dependent가 HOH qualifying person은 아닙니다. All-year household member인 unrelated friend가 qualifying relative가 될 수는 있어도, 그 이유만으로 HOH qualifying person이 되는 것은 보통 아닙니다. 문제 32가 바로 이 함정입니다.
+
+여기서 home cost와 support를 분리합니다.
+
+Cost of keeping up a home은 household cost입니다. HOH와 연결됩니다.
+
+Support는 특정 person의 total support입니다. dependent와 연결됩니다.
+
+Own support는 child가 자기 own support의 half 초과를 냈는지입니다. Qualifying Child와 연결됩니다.
+
+Parent rule도 중요합니다. Dependent parent는 taxpayer와 같은 집에 살지 않아도 HOH qualifying person이 될 수 있는 특별한 경우가 있습니다. 문제 31의 핵심입니다. A dependent parent does not always have to live in the taxpayer's home for HOH.
+
+Filing status 문제를 풀 때는 이 템플릿으로 갑니다.
+
+December 31에 married인가, unmarried인가.
+
+Married라면 MFJ 또는 MFS부터 본다.
+
+Spouse died면 MFJ 또는 QSS trigger다.
+
+Unmarried 또는 considered unmarried라면 HOH 가능성을 본다.
+
+HOH는 status, home cost, qualifying person 세 문을 통과해야 한다.
+
+여러 status가 가능하면 일반적으로 lowest tax를 주는 status를 고른다.
+
+마지막으로 한 번 더 정리합니다. Filing status는 December 31에서 시작합니다. HOH는 status, home cost, qualifying person입니다. Home cost와 support는 다릅니다. Dependent라고 해서 항상 HOH qualifying person은 아닙니다.

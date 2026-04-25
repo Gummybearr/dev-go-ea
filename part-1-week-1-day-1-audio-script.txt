@@ -1,0 +1,144 @@
+CHUNK 1
+EA Part 1, Week 1, Day 1 복습 오디오입니다.
+
+오늘은 세법 전체를 외우는 날이 아닙니다. 오늘의 목표는 세 가지입니다. Form 1040의 큰 흐름, filing status의 판단 순서, 그리고 dependent를 qualifying child와 qualifying relative로 나누는 감각입니다.
+
+먼저 약어를 풀고 가겠습니다.
+
+EA는 Enrolled Agent입니다.
+IRS는 Internal Revenue Service입니다.
+AGI는 Adjusted Gross Income입니다.
+MFJ는 Married Filing Jointly입니다.
+MFS는 Married Filing Separately입니다.
+HOH는 Head of Household입니다.
+QC는 Qualifying Child입니다.
+QR은 Qualifying Relative입니다.
+FBAR는 Report of Foreign Bank and Financial Accounts입니다.
+
+이 오디오에서는 영어 시험 용어는 그대로 말하되, 중요한 약어는 처음에 의미를 같이 설명하겠습니다.
+
+핵심 문장은 이것입니다.
+
+Form first. Taxpayer second. Rule third.
+
+문제를 보자마자 세부 rule로 가지 마세요. 먼저 이 문제가 Form 1040 어디에 들어가는지 봅니다. 그 다음 taxpayer가 누구인지 봅니다. 그 다음 filing status와 dependent를 봅니다. 마지막에 세부 rule을 적용합니다.
+
+Form 1040의 흐름은 이렇게 갑니다.
+
+Gross income.
+Adjustments.
+AGI, Adjusted Gross Income.
+Deductions.
+Taxable income.
+Tax.
+Credits.
+Other taxes.
+Payments.
+Refund or balance due.
+
+한국어로 풀면, 먼저 어떤 income이 들어왔는지 봅니다. 그 다음 Adjusted Gross Income, 즉 AGI 전에 빠지는 adjustment가 있는지 봅니다. 그 결과 AGI가 나옵니다. AGI는 gross income에서 certain adjustments를 뺀 중간 subtotal입니다. 그 다음 standard deduction 또는 itemized deduction을 빼서 taxable income을 구합니다. Tax가 계산되고, credits가 tax를 줄입니다. Other taxes가 있으면 더하고, payments와 withholding이 있으면 뺍니다. 마지막에 refund인지 balance due인지 결정됩니다.
+
+Day 1에서는 line number를 다 외울 필요가 없습니다. Schedule 1은 additional income and adjustments. Schedule 2는 additional taxes. Schedule 3는 additional credits and payments. 이 세 bucket만 잡으면 됩니다.
+
+CHUNK 2
+이제 filing status입니다.
+
+Filing status는 단순한 이름표가 아닙니다. Standard deduction, tax rate, filing requirement, credit eligibility에 영향을 줍니다.
+
+기본 status는 다섯 개입니다.
+
+Single.
+Married Filing Jointly, 줄여서 MFJ.
+Married Filing Separately, 줄여서 MFS.
+Head of Household, 줄여서 HOH.
+Qualifying Surviving Spouse.
+
+첫 번째 습관은 December 31 기준으로 marital status를 보는 것입니다. Taxpayer가 11월 30일에 결혼했고 12월 31일에도 married 상태라면, 그 해 filing status는 married status에서 시작합니다. 1년 대부분을 unmarried로 지냈다고 해서 바로 Single이 되는 것이 아닙니다.
+
+Head of Household, 즉 HOH는 특히 조심해야 합니다.
+
+HOH는 세 가지를 봅니다.
+
+첫째, taxpayer가 unmarried 또는 considered unmarried인지.
+둘째, taxpayer가 cost of keeping up a home의 half 초과를 냈는지.
+셋째, qualifying person이 있는지.
+
+여기서 home cost와 support를 섞으면 안 됩니다. Home cost는 rent, mortgage interest, real estate tax, utilities, repairs, property insurance, 그리고 home 안에서 먹은 food 같은 household 비용입니다. Support는 한 사람을 부양하는 비용입니다. Food, lodging, clothing, education, medical care, recreation, transportation 같은 항목입니다.
+
+문제에 paid more than half the cost of keeping up a home이 나오면 HOH를 떠올립니다. 문제에 provided more than half of support가 나오면 dependent 문제일 가능성이 큽니다.
+
+CHUNK 3
+이제 dependent입니다.
+
+Dependent 문제는 반드시 둘로 나눕니다.
+
+Qualifying Child, 줄여서 QC.
+Qualifying Relative, 줄여서 QR.
+
+항상 qualifying child를 먼저 봅니다. 그 사람이 qualifying child가 아니면 qualifying relative를 봅니다.
+
+Qualifying Child는 다섯 개 test로 기억합니다.
+
+Relationship.
+Age.
+Residency.
+Support.
+Joint return.
+
+Relationship test는 taxpayer의 child, stepchild, foster child, sibling, stepsibling, 또는 그 descendant인지 봅니다.
+
+Age test는 보통 under 19인지, full-time student under 24인지, 또는 permanently and totally disabled인지 봅니다.
+
+Residency test는 taxpayer와 half of the year 초과 같이 살았는지 봅니다.
+
+Support test가 가장 큰 함정입니다. Qualifying child에서는 parent가 child support의 half 초과를 냈는지 묻는 것이 아닙니다. 핵심 질문은 child가 자기 own support의 half 초과를 스스로 제공했는지입니다.
+
+예를 들어 22-year-old full-time student가 parent와 all year 같이 살았고, 자기 own support의 half 초과를 제공하지 않았다면, 이 support test는 통과할 수 있습니다.
+
+CHUNK 4
+Qualifying Relative, 즉 QR은 다르게 봅니다.
+
+Not a qualifying child.
+Member of household or relationship.
+Gross income.
+Support.
+
+Qualifying relative에서는 taxpayer가 그 사람 total support의 half 초과를 제공했는지가 중요합니다. 2025 Publication 501 기준으로 qualifying relative의 gross income threshold는 5,200 dollars입니다.
+
+한 줄로 정리하면 이렇습니다.
+
+QC support, 즉 Qualifying Child support는 child의 own support를 봅니다.
+QR support, 즉 Qualifying Relative support는 taxpayer가 제공한 support를 봅니다.
+
+CHUNK 5
+이제 gross income과 exclusion입니다.
+
+기본 원칙은 이것입니다.
+
+If value comes in, assume taxable first. Then look for a specific exclusion.
+
+가치가 들어오면 일단 taxable income 후보로 봅니다. 그 다음 law가 specific exclusion을 주는지 확인합니다.
+
+Wages는 일반적으로 taxable입니다. Property received for services도 일반적으로 FMV, Fair Market Value로 taxable compensation입니다. Illegal income도 일반적으로 taxable입니다. Gambling winnings도 일반적으로 taxable입니다.
+
+반대로 true gift from a parent는 일반적으로 recipient의 gross income에서 excluded입니다. Inheritance도 일반적으로 recipient gross income에서 excluded입니다. Child support도 일반적으로 recipient에게 taxable income이 아닙니다.
+
+시험 함정은 gift와 compensation을 섞는 것입니다. Client가 lawyer에게 legal services 후 artwork를 줬다면, 말로 gift라고 불러도 실질은 compensation입니다.
+
+마지막으로 foreign account reporting입니다. FBAR와 Form 8938은 다릅니다. FBAR는 Report of Foreign Bank and Financial Accounts입니다. FBAR는 required이면 FinCEN, Financial Crimes Enforcement Network의 BSA E-Filing system으로 electronic filing합니다. Form 8938은 required이면 income tax return에 attach합니다. 하나가 다른 하나를 대체하지 않습니다.
+
+CHUNK 6
+마지막으로 Day 1 핵심 10문장을 정리합니다.
+
+Form 1040은 gross income에서 시작해 refund or balance due로 끝납니다.
+Filing status는 standard deduction, tax rate, filing requirement, credit eligibility에 영향을 줍니다.
+Marital status는 보통 December 31 기준으로 판단합니다.
+Head of Household는 status, home cost, qualifying person을 모두 봅니다.
+Cost of keeping up a home과 support of a person은 같은 말이 아닙니다.
+Dependent는 먼저 qualifying child인지 qualifying relative인지 가릅니다.
+Qualifying child support test, 즉 QC support test는 child가 own support의 half 초과를 냈는지 봅니다.
+Qualifying relative support test, 즉 QR support test는 taxpayer가 그 사람 support의 half 초과를 냈는지 봅니다.
+가치가 들어오면 먼저 taxable로 의심하고 specific exclusion을 찾습니다.
+FBAR와 Form 8938은 서로 다른 requirement이고, 하나가 다른 하나를 대체하지 않습니다.
+
+이 10문장을 설명할 수 있으면 Week 1 Day 1의 목적은 달성한 것입니다.

@@ -1,0 +1,73 @@
+EA Part 1, Week 1 Day 1, Masterclass zero. Roadmap.
+
+오늘은 세법 전체를 외우는 날이 아닙니다. 오늘의 목표는 시험 문제를 읽는 순서를 만드는 것입니다.
+
+문제를 보자마자 계산으로 들어가면 안 됩니다. 먼저 분류해야 합니다. 이 문제가 Form 1040 flow 문제인지, filing status 문제인지, Head of Household 문제인지, dependent 문제인지, gross income 문제인지, foreign account reporting 문제인지 나눠야 합니다.
+
+Day 1에서 계속 반복할 문장은 세 개입니다.
+
+첫째, Form first. 이 항목이 Form 1040 흐름에서 어디에 들어가는지 먼저 봅니다.
+
+둘째, taxpayer second. 누가 filing하는지, 그리고 year-end status가 무엇인지 봅니다.
+
+셋째, rule third. 마지막에 세부 규칙을 적용합니다.
+
+많은 수험생이 반대로 합니다. 단어 하나를 보고 바로 규칙을 떠올립니다. support라는 단어가 보이면 무조건 dependent라고 생각하거나, gift라는 단어가 보이면 무조건 excluded라고 생각합니다. 그런데 시험은 그렇게 나오지 않습니다. support가 Head of Household의 home cost일 수도 있고, dependent의 support test일 수도 있습니다. gift라고 불러도 services의 대가라면 compensation일 수 있습니다.
+
+그래서 오늘의 공부는 암기가 아니라 구조입니다.
+
+이번 masterclass는 여섯 개 module로 나눕니다.
+
+Module zero는 roadmap입니다. 오늘 무엇을 어떤 순서로 공부할지 잡습니다.
+
+Module one은 Form 1040 flow입니다. gross income에서 시작해서 AGI, deductions, taxable income, tax, credits, other taxes, payments, refund or balance due로 가는 큰길을 봅니다.
+
+Module two는 filing status와 Head of Household입니다. taxpayer가 Single인지, Married Filing Jointly인지, Married Filing Separately인지, Head of Household인지, Qualifying Surviving Spouse인지 판단하는 눈을 만듭니다.
+
+Module three는 dependent 중 Qualifying Child입니다. 줄여서 QC라고 합니다. dependent 문제는 항상 QC를 먼저 봅니다.
+
+Module four는 Qualifying Relative입니다. 줄여서 QR이라고 합니다. QC가 아니면 QR을 봅니다. 여기서 gross income threshold와 taxpayer-provided support가 중요합니다.
+
+Module five는 gross income, FBAR, Form 8938입니다. money, property, services가 들어오면 taxable first로 보고, specific exclusion이 있는지 찾습니다. foreign account는 FBAR와 Form 8938을 구분합니다.
+
+약어도 오늘부터 정확히 잡겠습니다.
+
+EA는 Enrolled Agent입니다. IRS 앞에서 납세자를 대리할 수 있는 연방 세무 전문가입니다.
+
+SEE는 Special Enrollment Examination, 즉 EA 시험입니다.
+
+AGI는 Adjusted Gross Income입니다. gross income에서 certain adjustments를 뺀 subtotal입니다.
+
+MFJ는 Married Filing Jointly. MFS는 Married Filing Separately. HOH는 Head of Household. QSS는 Qualifying Surviving Spouse입니다.
+
+QC는 Qualifying Child. QR은 Qualifying Relative입니다.
+
+FMV는 Fair Market Value입니다. services 대가로 property를 받았을 때 value를 잡는 데 중요합니다.
+
+FBAR는 Report of Foreign Bank and Financial Accounts입니다. FinCEN의 BSA E-Filing system으로 file합니다. FinCEN은 Financial Crimes Enforcement Network입니다.
+
+문제를 읽을 때 5초 루틴을 씁니다.
+
+첫째, 누가 filing하는가. taxpayer인지, spouse인지, child인지, parent인지, employee인지 봅니다.
+
+둘째, 날짜가 있는가. December 31, married on November 30, divorced on December 20, spouse died during the year, lived apart during the last six months 같은 말이 나오면 filing status를 의심합니다.
+
+셋째, 같이 살았는가, 누가 support했는가. lived with taxpayer, more than half the year, all year, own support, more than half of support가 나오면 dependent나 Head of Household를 봅니다.
+
+넷째, value가 들어왔는가. wages, bonus, barter, gambling winnings, illegal income, gift, inheritance, child support, property for services가 나오면 gross income 문제입니다.
+
+다섯째, foreign account인가. foreign bank account, FinCEN, BSA E-Filing, Form 8938이 나오면 filing location을 구분합니다.
+
+처음 100문제를 풀 때는 정답률보다 분류가 중요합니다. 각 문제 옆에 topic을 먼저 적으세요. Q31은 HOH parent rule. Q56은 QC support test. Q80은 property for services and FMV. Q99는 Form 8938 does not replace FBAR. 이렇게 적는 습관이 실력을 만듭니다.
+
+오늘 버릴 습관도 있습니다.
+
+단어 하나만 보고 답 고르지 마세요. gift라는 단어가 있어도 services 대가이면 compensation입니다. support라는 단어가 있어도 home cost인지 person support인지 봐야 합니다.
+
+QC와 QR을 섞지 마세요. dependent는 항상 Qualifying Child first, Qualifying Relative second입니다.
+
+Form 이름만 외우지 마세요. 위치와 함께 외우세요. Schedule 1은 additional income and adjustments. Schedule 2는 additional taxes. Schedule 3는 additional credits and payments. FBAR는 FinCEN. Form 8938은 tax return attachment when required.
+
+Day 1의 결론은 이겁니다. Form 1040 flow로 큰길을 잡고, filing status로 taxpayer의 출발점을 잡고, dependent를 QC와 QR로 나누고, gross income은 taxable first로 보고, FBAR와 Form 8938은 filing location을 구분합니다.
+
+이 다섯 줄이 오늘의 뼈대입니다.

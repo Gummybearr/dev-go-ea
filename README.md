@@ -11,6 +11,14 @@
 - `part-1-last-minute-cheatsheet.md`: Part 1 시험 직전 1페이지 압축노트
 - `part-1-incorrect-answer-template.md`: Part 1 오답노트 템플릿
 - `part-1-week-1-day-1.md`: Part 1 Week 1 Day 1 전용 학습 노트와 미니퀴즈
+- `part-1-week-1-day-1-deep-dive.md`: Part 1 Week 1 Day 1 상세 이해 노트 (한국어 설명 + English tax terms)
+- `part-1-week-1-day-1-audio-script.txt`: Part 1 Week 1 Day 1 음성 파일용 낭독 스크립트 (한국어 설명 + English tax terms)
+- `part-1-week-1-day-1-deep-dive.m4a`: Part 1 Week 1 Day 1 자연스러운 복습용 음성 파일
+- `part-1-week-1-day-1-100-practice-questions.md`: Part 1 Week 1 Day 1 실전형 100문제
+- `part-1-week-1-day-1-100-practice-answers.md`: Part 1 Week 1 Day 1 실전형 100문제 정답과 상세 해설
+- `generate-openai-tts.py`: Part 1 Week 1 Day 1 음성 파일 재생성 스크립트
+- `week1-day1-masterclass/`: Part 1 Week 1 Day 1을 6개 강의 module로 분할한 1타 강사식 상세 학습 세트와 module별 음성 파일
+- `generate-masterclass-tts.py`: `week1-day1-masterclass/` module별 음성 파일 재생성 스크립트
 - `part-1-week-1-day-2-quickstart.md`: Part 1 Week 1 Day 2 filing status 퀵스타트 노트와 미니퀴즈
 - `part-1-week-1-day-3-quickstart.md`: Part 1 Week 1 Day 3 dependents 퀵스타트 노트와 미니퀴즈
 - `part-1-week-1-day-4-quickstart.md`: Part 1 Week 1 Day 4 filing requirement / standard deduction / due dates 퀵스타트 노트와 미니퀴즈

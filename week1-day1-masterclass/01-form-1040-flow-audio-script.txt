@@ -1,0 +1,77 @@
+EA Part 1, Week 1 Day 1, Masterclass one. Form 1040 flow.
+
+이번 module의 목표는 Form 1040을 줄 번호가 아니라 흐름으로 이해하는 것입니다.
+
+한 줄로 말하면, Form 1040은 돈이 들어온 곳에서 시작해서 최종적으로 refund인지 balance due인지 결정하는 계산 지도입니다.
+
+외울 순서는 이것입니다.
+
+Gross income, adjustments, AGI, deductions, taxable income, tax, credits, other taxes, payments, refund or balance due.
+
+이 순서를 머릿속에 넣으면 문제 1번부터 10번까지가 단순 암기가 아니라 구조 문제로 보입니다.
+
+먼저 gross income입니다. Gross income은 출발점입니다. 돈, property, services처럼 value가 들어오면 일단 gross income 후보로 봅니다. 나중에 exclusion이 있을 수 있습니다. 하지만 처음부터 excluded라고 생각하면 안 됩니다. 먼저 taxable candidate로 보고, 그 다음 specific exclusion을 찾습니다.
+
+두 번째는 adjustments to income입니다. Adjustments는 AGI 전에 빠지는 항목입니다. 문제에서 gross income 다음, AGI 전에 무엇이 오느냐고 물으면 답은 adjustments to income입니다. Day 1에서는 adjustment 종류를 다 외우는 것이 아니라 위치를 잡는 것이 중요합니다.
+
+세 번째는 AGI입니다. AGI는 Adjusted Gross Income입니다. gross income에서 certain adjustments를 뺀 subtotal입니다. AGI는 final tax가 아닙니다. 하지만 뒤의 여러 deduction, credit, limitation에서 기준 숫자로 자주 쓰입니다. 문제에 starting point for limits, deduction limitation, credit eligibility 같은 표현이 보이면 AGI를 떠올리세요.
+
+네 번째는 deductions입니다. Deduction은 taxable income을 줄입니다. 여기서 credit과 반드시 구분해야 합니다. Deduction reduces taxable income. Credit reduces tax. 이 문장을 그대로 외웁니다.
+
+다섯 번째는 taxable income입니다. Taxable income은 tax rate을 적용할 금액입니다. gross income에서 adjustments를 거쳐 AGI가 나오고, deduction을 빼면 taxable income으로 갑니다.
+
+여섯 번째는 tax입니다. Taxable income에 세율을 적용해서 regular tax를 계산합니다.
+
+일곱 번째는 credits입니다. Credit은 tax를 직접 줄입니다. deduction보다 직접적입니다. tax가 1,000달러인데 credit이 300달러라면 tax가 700달러로 내려갑니다. Day 1에서는 refundable인지 nonrefundable인지보다, credit이 tax를 직접 줄인다는 위치를 잡으면 됩니다.
+
+여덟 번째는 other taxes입니다. Regular income tax 외에 붙는 tax입니다. 여기서 Schedule 2를 떠올립니다. Schedule 2는 additional taxes입니다.
+
+아홉 번째는 payments입니다. Payments는 이미 낸 tax입니다. withholding이나 estimated tax payments 같은 것들이 여기에 들어갑니다. 문제에서 payments가 나오면 amounts already paid toward tax라고 생각합니다.
+
+마지막은 refund or balance due입니다. Payments가 total tax보다 크면 일반적으로 refund입니다. Payments가 total tax보다 작으면 balance due입니다.
+
+이제 Schedule 1, Schedule 2, Schedule 3를 붙입니다.
+
+Schedule 1은 additional income and adjustments to income입니다. 1은 income and adjustments.
+
+Schedule 2는 additional taxes입니다. 2는 taxes.
+
+Schedule 3는 additional credits and payments입니다. 3은 credits and payments.
+
+이렇게 숫자와 역할을 붙이면 됩니다.
+
+Deduction과 credit도 다시 구분합니다.
+
+Deduction은 taxable income을 줄입니다. Credit은 tax를 직접 줄입니다. 문제에 reduces taxable income이라고 나오면 deduction. reduces tax directly라고 나오면 credit입니다.
+
+문제 1번부터 10번을 연결해보겠습니다.
+
+문제 1번은 gross income과 AGI 사이에 무엇이 있느냐입니다. Adjustments to income입니다.
+
+문제 2번은 AGI가 무엇의 약자인지 묻습니다. Adjusted Gross Income입니다.
+
+문제 3번은 limitations의 기준 subtotal을 묻습니다. AGI입니다.
+
+문제 4번은 Schedule 1입니다. Additional income and adjustments.
+
+문제 5번은 Schedule 2입니다. Additional taxes.
+
+문제 6번은 Schedule 3입니다. Additional credits and payments.
+
+문제 7번은 deduction입니다. Reduces taxable income.
+
+문제 8번은 credit입니다. Reduces tax directly.
+
+문제 9번은 payments입니다. Amounts already paid toward tax.
+
+문제 10번은 payments가 total tax보다 많으면 무엇이냐입니다. Refund입니다.
+
+마지막으로 함정을 정리합니다.
+
+AGI를 final tax로 착각하지 마세요. AGI 뒤에 deductions, taxable income, tax, credits, payments가 더 있습니다.
+
+Schedule 2와 Schedule 3를 섞지 마세요. Schedule 2는 taxes. Schedule 3는 credits and payments.
+
+Deduction과 credit을 섞지 마세요. Deduction reduces taxable income. Credit reduces tax.
+
+이 세 문장이 Form 1040 flow module의 핵심입니다.
