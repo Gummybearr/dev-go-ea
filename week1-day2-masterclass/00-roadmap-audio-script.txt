@@ -1,0 +1,23 @@
+EA Part 1, Week 1 Day 2, Masterclass zero. Roadmap.
+
+Day 2는 filing status를 깊게 파는 날입니다. Filing status는 단순한 이름표가 아닙니다. Standard deduction, tax rate structure, filing requirement, credit eligibility, deduction limitation에 영향을 줍니다.
+
+오늘의 한 줄 공식은 이것입니다. Start with December 31, then test special statuses.
+
+문제를 읽으면 먼저 December 31 상태를 봅니다. Married인지 unmarried인지 가릅니다. Spouse death가 있으면 year of death의 MFJ와 following-year QSS를 분리합니다. Child와 home facts가 있으면 HOH 또는 QSS를 의심합니다. MFS가 보이면 limitation warning을 켭니다.
+
+Day 2 module은 다섯 갈래로 갑니다.
+
+Module one은 five statuses and year-end marital status입니다. Single, MFJ, MFS, HOH, QSS를 잡고 December 31 rule을 훈련합니다.
+
+Module two는 MFJ and MFS입니다. Married Filing Jointly와 Married Filing Separately를 구분하고, MFS limitation을 봅니다.
+
+Module three는 HOH core tests and considered unmarried입니다. Head of Household의 세 문, status, home cost, qualifying person을 봅니다.
+
+Module four는 HOH qualifying person traps입니다. Dependent parent, unrelated friend, temporary absence 같은 함정을 봅니다.
+
+Module five는 QSS and mixed traps입니다. Qualifying Surviving Spouse와 status selection 문제를 섞어서 훈련합니다.
+
+오늘 목표는 정답을 외우는 것이 아닙니다. 문제를 읽고 topic label을 붙이는 것입니다. Interlocutory decree, MFS threshold, considered unmarried, dependent parent HOH, QSS two-year window. 이런 label이 바로 떠올라야 합니다.
+
+Day 2는 taxpayer의 출발선을 정하는 날입니다. Filing status가 틀리면 뒤의 계산도 같이 틀립니다.

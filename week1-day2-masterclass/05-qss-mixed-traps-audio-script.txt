@@ -1,0 +1,27 @@
+Masterclass five. QSS and mixed filing-status traps.
+
+이번 module의 한 줄 결론은 spouse death 문제는 year of death MFJ와 following two years QSS를 구분한다는 것입니다.
+
+QSS는 Qualifying Surviving Spouse입니다. 대표 요건을 잡겠습니다.
+
+Spouse died in one of the two years before the current tax year. Taxpayer did not remarry before the end of the tax year. Taxpayer could have filed a joint return with the spouse for the year of death. Taxpayer has a qualifying child or stepchild. Taxpayer paid more than half the cost of keeping up the home. The home was the child's main home for the entire year, except temporary absences.
+
+Year of death와 QSS years를 분리합니다. Spouse died in 2025 and current year is 2025이면 MFJ for year of death를 먼저 봅니다. Spouse died in 2024 and current year is 2025이면 QSS 가능성이 있습니다. Spouse died in 2023 and current year is 2025이면 QSS 가능성이 있습니다. Spouse died in 2022 and current year is 2025이면 QSS two-year window가 generally passed입니다.
+
+Mixed trap label도 정리합니다.
+
+MFS education credit은 limitation.
+
+Unrelated friend는 HOH warning.
+
+Dependent parent separate home은 HOH parent rule.
+
+Spouse lived in home during last six months는 considered-unmarried problem.
+
+Spouse died current year는 MFJ first.
+
+Spouse died prior year plus child plus home cost는 QSS.
+
+Day 2의 마지막 공식은 이것입니다. December 31, then MFJ or MFS, then HOH, then QSS, then limitations.
+
+Status label을 먼저 붙이면 문제는 훨씬 쉬워집니다.

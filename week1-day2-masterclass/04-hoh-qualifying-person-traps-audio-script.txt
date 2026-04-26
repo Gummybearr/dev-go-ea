@@ -1,0 +1,15 @@
+Masterclass four. HOH qualifying person traps.
+
+이번 module의 한 줄 결론은 dependent라고 해서 항상 HOH qualifying person은 아니라는 것입니다.
+
+Qualifying child가 taxpayer와 more than half the year lived하면 HOH qualifying person 가능성이 큽니다. 여기서 temporary absence를 기억해야 합니다. Education 때문에 away at college인 기간은 residency를 자동 fail시키지 않습니다.
+
+Birth 또는 death year도 조심합니다. Qualifying person이 born 또는 died during the year이면 alive during year 기준으로 home test를 조정해서 볼 수 있습니다.
+
+Parent rule은 매우 중요합니다. Dependent parent는 taxpayer와 같이 살지 않아도 HOH qualifying person이 될 수 있습니다. Parent가 taxpayer의 dependent이고, taxpayer가 parent의 home을 keeping up 하는 cost의 more than half를 paid했다면, parent가 separate home에 살아도 HOH 가능성이 있습니다.
+
+Friend trap도 반드시 잡아야 합니다. Unrelated friend는 all-year household member로 dependent가 될 수 있습니다. 하지만 그 이유만으로 HOH qualifying person은 generally 아닙니다.
+
+시험장에서 이렇게 구분하세요. Dependent parent separate home은 HOH 가능성. Unrelated friend dependent는 HOH warning. Qualifying child lived more than half year는 HOH 가능성. Away at college는 temporary absence 가능성.
+
+정리합니다. HOH qualifying person은 dependent와 완전히 같은 말이 아닙니다. Parent는 special rule. Friend는 trap입니다.

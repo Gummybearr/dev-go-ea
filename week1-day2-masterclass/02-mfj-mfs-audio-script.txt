@@ -1,0 +1,17 @@
+Masterclass two. MFJ and MFS.
+
+이번 module의 한 줄 결론은 married taxpayer는 보통 MFJ 또는 MFS에서 시작하고, MFS는 limitation warning이라는 것입니다.
+
+MFJ는 Married Filing Jointly입니다. Spouses가 combined income and deductions를 one joint return에 신고합니다. One spouse에게 income이 없어도 MFJ가 가능할 수 있습니다. Joint return은 generally both spouses가 sign합니다. 그리고 generally joint and several liability가 생깁니다. 즉 return상의 tax에 대해 두 spouse가 모두 책임질 수 있습니다.
+
+Spouse died during the year이면 year of death에는 MFJ 가능성을 먼저 봅니다. Survivor가 remarried하지 않고, otherwise qualified이면 deceased spouse와 joint return을 file할 수 있는 경우가 있습니다.
+
+MFS는 Married Filing Separately입니다. Married taxpayers가 separate returns를 filing하는 status입니다. MFS는 Single이 아닙니다. Married status 안에서 separate로 filing하는 것입니다.
+
+시험에서 MFS는 limitation warning입니다. 2025 Publication 501에서 MFS filing threshold는 5 dollars로 very low입니다. Education credits는 generally MFS에서 불가능합니다. One spouse itemizes deductions이면 other spouse generally cannot take the standard deduction. Many credits and deductions가 limited 또는 disallowed될 수 있습니다.
+
+그래서 MFS가 보이면 이렇게 묻습니다. What benefit is being limited?
+
+Education credit인가. Student loan interest인가. EITC인가. Standard deduction coordination인가. MFS는 항상 조심해서 봅니다.
+
+정리하면 MFJ는 one combined return. MFS는 separate returns. MFS is not Single. MFS is a limitation trigger.

@@ -1,0 +1,17 @@
+Masterclass three. HOH core tests and considered unmarried.
+
+이번 module의 한 줄 결론은 HOH는 status, home cost, qualifying person 세 문을 통과해야 한다는 것입니다.
+
+HOH는 Head of Household입니다. 첫 번째 문은 taxpayer가 unmarried 또는 considered unmarried인가입니다. 두 번째 문은 taxpayer가 more than half the cost of keeping up a home을 paid했는가입니다. 세 번째 문은 qualifying person이 있는가입니다. 세 문 중 하나만 맞으면 안 됩니다. 함께 봅니다.
+
+Cost of keeping up a home은 household 유지비입니다. Rent, mortgage interest, real estate tax, insurance on the home, repairs, utilities, food eaten in the home 같은 항목입니다.
+
+반대로 clothing, education, medical treatment, vacations, life insurance, transportation은 일반적으로 home upkeep cost가 아닙니다.
+
+More than half도 조심합니다. Exactly 50 percent는 more than half가 아닙니다. 50 percent 초과가 필요합니다.
+
+Married taxpayer도 certain facts가 있으면 HOH 목적상 considered unmarried가 될 수 있습니다. Separate return을 file하고, more than half home cost를 paid하고, spouse가 last 6 months 동안 home에 살지 않았고, home이 child, stepchild, or eligible foster child의 main home for more than half the year였고, child dependency requirement가 맞아야 합니다.
+
+이건 자동 Single이 아닙니다. Married taxpayer가 특별한 길을 통해 HOH를 검토하는 것입니다.
+
+정리합니다. HOH equals status, home cost, qualifying person. Home cost와 support를 섞지 마세요. More than half는 exactly half가 아닙니다. Considered unmarried는 married taxpayer의 special HOH path입니다.

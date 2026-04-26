@@ -1,0 +1,19 @@
+Masterclass one. Five statuses and year-end status.
+
+이번 module의 한 줄 결론은 filing status는 December 31에서 시작한다는 것입니다.
+
+기본 filing status는 다섯 개입니다. Single. MFJ, Married Filing Jointly. MFS, Married Filing Separately. HOH, Head of Household. QSS, Qualifying Surviving Spouse.
+
+Single은 unmarried이고 더 좋은 status가 없을 때 봅니다. MFJ는 married taxpayers가 one joint return을 filing하는 status입니다. MFS는 married taxpayers가 separate returns를 filing하는 status입니다. HOH는 unmarried 또는 considered unmarried taxpayer가 home cost와 qualifying person 요건을 충족할 때 봅니다. QSS는 spouse death 이후 일정 요건에서 봅니다.
+
+Calendar-year taxpayer는 generally December 31 marital status를 봅니다. November 30에 결혼했고 December 31에도 married이면 married로 시작합니다. December 20에 final divorce decree가 있고 December 31에 remarried하지 않았다면 unmarried로 시작합니다.
+
+Interlocutory decree는 final divorce decree가 아닙니다. Divorce가 final이 아니면 generally still married입니다.
+
+Married but living apart도 주의합니다. 그냥 따로 산다고 Single이 아닙니다. Final divorce 또는 separate maintenance decree가 없으면 generally married입니다.
+
+Common-law marriage가 state law상 recognized이면 generally married입니다.
+
+Spouse death도 정리합니다. Spouse died during the current year이면 그 current year에는 MFJ, Married Filing Jointly 가능성을 먼저 봅니다. QSS, Qualifying Surviving Spouse는 보통 spouse death year 다음 two years입니다.
+
+문제를 읽을 때 날짜가 나오면 멈추세요. November 30, December 20, December 31, spouse died. 이런 말은 filing status trigger입니다.

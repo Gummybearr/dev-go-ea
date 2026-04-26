@@ -20,6 +20,12 @@
 - `week1-day1-masterclass/`: Part 1 Week 1 Day 1을 6개 강의 module로 분할한 1타 강사식 상세 학습 세트와 module별 음성 파일
 - `generate-masterclass-tts.py`: `week1-day1-masterclass/` module별 음성 파일 재생성 스크립트
 - `part-1-week-1-day-2-quickstart.md`: Part 1 Week 1 Day 2 filing status 퀵스타트 노트와 미니퀴즈
+- `part-1-week-1-day-2-deep-dive.md`: Part 1 Week 1 Day 2 filing status 상세 이해 노트
+- `part-1-week-1-day-2-100-practice-questions.md`: Part 1 Week 1 Day 2 filing status 실전형 100문제
+- `part-1-week-1-day-2-100-practice-answers.md`: Part 1 Week 1 Day 2 실전형 100문제 정답과 상세 해설
+- `week1-day2-masterclass/`: Part 1 Week 1 Day 2를 6개 강의 module로 분할한 1타 강사식 상세 학습 세트와 Gemini TTS 음성 파일
+- `generate-day2-materials.py`: Part 1 Week 1 Day 2 문제/해설/masterclass markdown 재생성 스크립트
+- `generate-day2-gemini-tts.py`: `week1-day2-masterclass/` module별 Gemini TTS 음성 파일 재생성 스크립트
 - `part-1-week-1-day-3-quickstart.md`: Part 1 Week 1 Day 3 dependents 퀵스타트 노트와 미니퀴즈
 - `part-1-week-1-day-4-quickstart.md`: Part 1 Week 1 Day 4 filing requirement / standard deduction / due dates 퀵스타트 노트와 미니퀴즈
 - `part-1-week-1-day-5-quickstart.md`: Part 1 Week 1 Day 5 gross income basics 퀵스타트 노트와 미니퀴즈
