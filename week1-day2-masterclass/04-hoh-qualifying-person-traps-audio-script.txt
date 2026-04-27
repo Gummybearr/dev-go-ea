@@ -13,3 +13,15 @@ Friend trap도 반드시 잡아야 합니다. Unrelated friend는 all-year house
 시험장에서 이렇게 구분하세요. Dependent parent separate home은 HOH 가능성. Unrelated friend dependent는 HOH warning. Qualifying child lived more than half year는 HOH 가능성. Away at college는 temporary absence 가능성.
 
 정리합니다. HOH qualifying person은 dependent와 완전히 같은 말이 아닙니다. Parent는 special rule. Friend는 trap입니다.
+
+이제 qualifying person 함정을 좀 더 강의식으로 정리하겠습니다.
+
+가장 쉬운 qualifying person은 taxpayer의 qualifying child입니다. Child가 taxpayer와 more than half the year lived하고, relationship, age, support, joint return 같은 dependent rules가 맞으면 HOH qualifying person 가능성이 큽니다. 그런데 여기서 temporary absence가 중요합니다. Child가 college 때문에 away였고 breaks에 home으로 돌아왔다면, 그 absence는 temporary absence일 수 있습니다. 그래서 “away at college”만 보고 residency fail이라고 하면 안 됩니다.
+
+Birth 또는 death during the year도 시험에서 나옵니다. Child가 year 중간에 born되었거나 qualifying person이 year 중간에 died했다면, 전체 12개월을 기계적으로 적용하지 않고 alive during year 기준으로 home test를 볼 수 있습니다. Day 2에서는 이 nuance를 “birth/death special timing”으로 label 붙이면 됩니다.
+
+Parent rule은 반드시 따로 보관합니다. 일반적인 qualifying person은 taxpayer와 같은 home에서 살아야 하는 경우가 많지만, dependent parent는 special rule이 있습니다. Parent가 taxpayer의 dependent이고, taxpayer가 parent가 사는 home을 keeping up 하는 cost의 more than half를 paid했다면, parent가 separate apartment에 살아도 HOH 가능성이 있습니다.
+
+반대로 friend trap은 조심해야 합니다. Unrelated friend가 taxpayer와 all year 같이 살고 gross income/support tests를 통과해서 qualifying relative dependent가 될 수는 있습니다. 하지만 그 이유만으로 HOH qualifying person은 generally 아닙니다. 시험은 “dependent”라는 단어로 수험생을 유도합니다. Dependent yes, HOH qualifying person not necessarily.
+
+그래서 세 가지 label을 외웁니다. Qualifying child lived with taxpayer, possible HOH. Dependent parent separate home, possible HOH under parent rule. Unrelated friend dependent, HOH warning.

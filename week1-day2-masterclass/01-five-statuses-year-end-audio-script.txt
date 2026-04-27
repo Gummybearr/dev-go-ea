@@ -17,3 +17,15 @@ Common-law marriage가 state law상 recognized이면 generally married입니다.
 Spouse death도 정리합니다. Spouse died during the current year이면 그 current year에는 MFJ, Married Filing Jointly 가능성을 먼저 봅니다. QSS, Qualifying Surviving Spouse는 보통 spouse death year 다음 two years입니다.
 
 문제를 읽을 때 날짜가 나오면 멈추세요. November 30, December 20, December 31, spouse died. 이런 말은 filing status trigger입니다.
+
+이 module에서 가장 중요한 훈련은 “연말 상태를 기준으로 시작점을 고르는 것”입니다.
+
+문제에서 taxpayer가 1월부터 11월까지 unmarried였다고 해도, 12월 31일에 married라면 generally married입니다. 이때 가능한 basic status는 MFJ 또는 MFS입니다. Head of Household가 완전히 불가능하다고 단정하는 것은 이릅니다. 하지만 시작점은 married입니다. 그 다음 considered unmarried rule이 있는지 따로 봐야 합니다.
+
+반대로 taxpayer가 1년 대부분 married였더라도, 12월 31일 전에 final divorce decree가 있고 year-end에 remarried하지 않았다면 generally unmarried입니다. 여기서 중요한 단어는 final입니다. Interlocutory decree, 즉 divorce가 아직 final이 아닌 중간 decree라면 generally still married입니다. 시험은 이 단어 하나로 answer choice를 갈라놓습니다.
+
+Living apart도 함정입니다. Spouses가 따로 살았다고 해서 자동 Single이 아닙니다. Married but living apart는 final divorce나 separate maintenance decree가 없으면 generally considered married입니다. 다만 later module에서 배우는 considered unmarried HOH route가 있을 수 있습니다. 그래서 “living apart”를 보면 Single로 뛰지 말고, married status에서 special HOH path가 있는지 봅니다.
+
+Spouse died 문제도 연도 구분이 핵심입니다. 2025년에 spouse가 사망했고 2025 return을 묻는다면 MFJ 가능성입니다. 2023년에 spouse가 사망했고 2025 return을 묻는다면 QSS 가능성입니다. 이 차이를 못 잡으면 surviving spouse 문제를 계속 틀립니다.
+
+마지막으로 five statuses를 입으로 말해봅니다. Single. Married Filing Jointly. Married Filing Separately. Head of Household. Qualifying Surviving Spouse. 시험장에서는 이 다섯 개 중 어느 출발선에 taxpayer가 서는지 먼저 정해야 합니다.

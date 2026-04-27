@@ -15,3 +15,17 @@ Married taxpayer도 certain facts가 있으면 HOH 목적상 considered unmarrie
 이건 자동 Single이 아닙니다. Married taxpayer가 특별한 길을 통해 HOH를 검토하는 것입니다.
 
 정리합니다. HOH equals status, home cost, qualifying person. Home cost와 support를 섞지 마세요. More than half는 exactly half가 아닙니다. Considered unmarried는 married taxpayer의 special HOH path입니다.
+
+이제 HOH를 실제 문제처럼 풀어보겠습니다.
+
+문제에 “taxpayer is unmarried and paid more than half the cost of keeping up a home”이 나오면 많은 사람이 바로 HOH를 고릅니다. 하지만 아직 한 문이 더 남았습니다. Qualifying person입니다. HOH는 status와 home cost만으로 완성되지 않습니다. Qualifying person이 있어야 합니다.
+
+반대로 qualifying child가 있다고 해서 자동 HOH도 아닙니다. Taxpayer가 home 유지비의 more than half를 paid했는지 봐야 합니다. 문제에서 taxpayer가 40 percent만 paid했다면, qualifying child가 있어도 home-cost test에서 fail입니다. Exactly 50 percent도 fail입니다. More than half means more than 50 percent.
+
+Cost of keeping up a home도 정확히 봐야 합니다. Rent, utilities, repairs, real estate taxes, insurance on the home, food eaten in the home은 home cost 후보입니다. 하지만 clothing, education, medical care, vacation, life insurance, transportation은 일반적인 home upkeep cost가 아닙니다. 이 항목을 섞는 문제가 자주 나옵니다.
+
+Considered unmarried는 married taxpayer를 위한 special path입니다. Spouse와 legal divorce가 final되지 않았더라도, taxpayer가 separate return을 file하고, home cost의 more than half를 paid하고, spouse가 last six months 동안 home에 lived하지 않았고, child 또는 stepchild 또는 eligible foster child가 main home test를 충족하면 HOH 가능성이 생깁니다.
+
+중요한 말은 “가능성이 생긴다”입니다. 자동 Single이 아닙니다. 자동 HOH도 아닙니다. Considered unmarried facts가 있으면 HOH analysis를 열고, 그 다음 qualifying person과 home cost를 끝까지 확인합니다.
+
+시험장에서 HOH를 만나면 세 단어를 적으세요. Status. Home cost. Qualifying person. 이 세 단어가 빠지면 거의 반드시 함정에 걸립니다.

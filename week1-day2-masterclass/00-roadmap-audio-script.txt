@@ -21,3 +21,15 @@ Module five는 QSS and mixed traps입니다. Qualifying Surviving Spouse와 stat
 오늘 목표는 정답을 외우는 것이 아닙니다. 문제를 읽고 topic label을 붙이는 것입니다. Interlocutory decree, MFS threshold, considered unmarried, dependent parent HOH, QSS two-year window. 이런 label이 바로 떠올라야 합니다.
 
 Day 2는 taxpayer의 출발선을 정하는 날입니다. Filing status가 틀리면 뒤의 계산도 같이 틀립니다.
+
+이제 Day 2를 실제 문제 풀이 관점으로 다시 쪼개겠습니다.
+
+첫 번째로, 문제에 날짜가 나오면 거의 무조건 멈춥니다. November 30, December 20, December 31, January 5 같은 날짜는 그냥 배경이 아닙니다. Filing status를 여는 key입니다. 예를 들어 taxpayer가 2025년 11월 30일에 결혼했고 2025년 12월 31일에도 married라면, 이 사람은 2025년 대부분을 single처럼 살았더라도 filing-status analysis는 married에서 시작합니다. 반대로 final divorce decree가 2025년 12월 20일에 있었고 year-end에 remarried하지 않았다면 unmarried에서 시작합니다.
+
+두 번째로, married와 unmarried를 먼저 나눈 뒤 바로 답을 고르면 안 됩니다. Married이면 MFJ와 MFS를 봅니다. MFJ는 Married Filing Jointly, 즉 spouses가 one joint return을 filing하는 status입니다. MFS는 Married Filing Separately, 즉 married taxpayers가 separate returns를 filing하는 status입니다. MFS는 Single이 아닙니다. 그리고 MFS가 보이면 항상 limitation warning을 켭니다. Education credit, certain deductions, standard deduction coordination 같은 제한을 의심합니다.
+
+세 번째로, unmarried이면 Single로 바로 가지 않습니다. Head of Household, 즉 HOH 가능성을 먼저 봅니다. HOH는 단순히 child가 있다는 뜻이 아닙니다. 세 문을 통과해야 합니다. Status, home cost, qualifying person. Taxpayer가 unmarried 또는 considered unmarried인지, home 유지비의 more than half를 냈는지, 그리고 qualifying person이 있는지를 봅니다.
+
+네 번째로, spouse died라는 phrase가 나오면 year를 구분합니다. Spouse died in the current year이면 year of death에는 MFJ 가능성을 먼저 봅니다. Spouse died in one of the two years before the current year이면 QSS, Qualifying Surviving Spouse 가능성을 봅니다.
+
+마지막으로, Day 2 오답은 대부분 rule을 몰라서가 아니라 순서를 놓쳐서 생깁니다. 그래서 오늘은 항상 이렇게 말합니다. December 31 first. Then MFJ or MFS. Then HOH. Then QSS. Then limitations.

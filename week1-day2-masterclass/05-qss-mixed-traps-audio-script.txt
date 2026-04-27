@@ -25,3 +25,17 @@ Spouse died prior year plus child plus home cost는 QSS.
 Day 2의 마지막 공식은 이것입니다. December 31, then MFJ or MFS, then HOH, then QSS, then limitations.
 
 Status label을 먼저 붙이면 문제는 훨씬 쉬워집니다.
+
+이제 QSS와 mixed traps를 실제 시험 흐름처럼 정리합니다.
+
+Spouse death 문제에서 가장 먼저 할 일은 current year와 death year를 비교하는 것입니다. Spouse died during 2025 and the return is for 2025라면 year of death입니다. 이때는 MFJ with deceased spouse 가능성을 먼저 봅니다. Survivor가 remarried하지 않았고 otherwise qualified이면 year of death에 joint return을 file할 수 있습니다.
+
+하지만 spouse died in 2023 and current return is 2025라면 이야기가 다릅니다. 2025는 death year가 아니라 following year window입니다. 여기서 QSS, Qualifying Surviving Spouse를 검토합니다. QSS는 generally two years after the spouse's year of death입니다. Spouse died in 2023이면 2024와 2025가 QSS 후보 years입니다. Spouse died in 2024이면 2025와 2026이 후보 years입니다.
+
+QSS의 요건도 단순히 “spouse died”가 아닙니다. Taxpayer must not have remarried before the end of the tax year. Taxpayer could have filed a joint return with the deceased spouse for the year of death. Taxpayer has a qualifying child or stepchild. Taxpayer paid more than half the cost of keeping up the home. The home was the child's main home for the entire year, except temporary absences.
+
+QSS의 benefit도 정확히 말해야 합니다. QSS can use joint return tax rates and the highest standard deduction amount if not itemizing. 하지만 QSS는 year of death 이후 deceased spouse와 joint return을 filing하는 것과 같은 말이 아닙니다.
+
+마지막 mixed trap을 빠르게 복습합니다. MFS education credit은 limitation. Unrelated friend dependent는 HOH warning. Dependent parent separate home은 HOH parent rule. Spouse lived in home during last six months는 considered-unmarried problem. Spouse died current year는 MFJ first. Spouse died prior year plus child plus home cost는 QSS.
+
+Day 2의 최종 루틴은 이겁니다. Date. Marital status. MFJ or MFS. HOH. QSS. Limitation. 이 순서로 가면 filing status 문제는 훨씬 안정적으로 풀립니다.

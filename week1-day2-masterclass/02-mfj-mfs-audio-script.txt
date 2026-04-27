@@ -15,3 +15,17 @@ MFS는 Married Filing Separately입니다. Married taxpayers가 separate returns
 Education credit인가. Student loan interest인가. EITC인가. Standard deduction coordination인가. MFS는 항상 조심해서 봅니다.
 
 정리하면 MFJ는 one combined return. MFS는 separate returns. MFS is not Single. MFS is a limitation trigger.
+
+이제 MFJ와 MFS를 문제 풀이용으로 더 세밀하게 보겠습니다.
+
+MFJ는 보통 married couple에게 유리한 출발점입니다. Spouses가 combined income, combined deductions, combined credits를 one return에서 처리합니다. One spouse had no income이라는 사실은 MFJ를 막지 않습니다. 오히려 시험에서는 “husband had no income” 또는 “wife paid all expenses” 같은 문장을 넣어서 수험생을 흔듭니다. 하지만 filing status 관점에서는 married taxpayers가 joint return을 file할 수 있는지가 핵심입니다.
+
+MFJ에서 반드시 기억할 말은 joint and several liability입니다. Joint return을 file하면 generally both spouses can be responsible for the tax. 이건 Day 2 계산문제보다는 개념 함정입니다. One spouse가 income을 벌었고 other spouse가 income이 없어도, joint return 자체가 joint responsibility를 만들 수 있습니다.
+
+MFS는 분위기가 다릅니다. MFS는 married taxpayers가 separate returns를 file하는 status입니다. 시험에서는 MFS를 보면 “무엇이 막히는가”를 먼저 생각해야 합니다. Education credits, student loan interest deduction, earned income credit, certain child-related benefits, standard deduction coordination 같은 제한이 나올 수 있습니다.
+
+특히 education credit 문제에서 MFS는 강력한 warning입니다. American Opportunity Credit이나 Lifetime Learning Credit은 generally MFS에서 허용되지 않습니다. IRS sample question style에서도 education credit은 filing jointly 여부와 연결됩니다.
+
+또 하나의 classic trap은 itemized deduction입니다. Married filing separately에서 one spouse itemizes deductions이면 other spouse generally cannot take the standard deduction. 즉 한 사람은 itemize, 다른 사람은 standard deduction으로 편하게 가는 구조가 generally 안 됩니다.
+
+Day 2에서는 이렇게 정리합니다. MFJ는 combined return and joint responsibility. MFS는 separate return and limitation warning. Married taxpayer를 Single처럼 다루면 안 됩니다.
